@@ -79,7 +79,7 @@
 
 ---
 
-### 📝 [Tstory Automation](https://github.com/jae-tech/tstory-automation)
+### 📝 [Blog Auto Posting](https://github.com/jae-tech/tstory-auto-postiong)
 알뜰폰 요금제 데이터를 수집해 **Gemini AI로 블로그 콘텐츠를 생성하고 자동 발행**하는 시스템입니다.  
 Playwright와 NestJS를 이용해 **크롤링 → 분석 → 발행** 전 과정을 자동화했습니다.  
 실제 블로그 운영 자동화에 활용하며, AI 콘텐츠 파이프라인을 검증했습니다.
