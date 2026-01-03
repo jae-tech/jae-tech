@@ -21,19 +21,18 @@ GitHub Actions, GitLab, pnpm, Yarn Berry, ESLint, Prettier, Monorepo
 ### Others
 TypeScript, Playwright, Gemini AI, Electron
 
-## 📂 주요 프로젝트
+## 📊 GitHub 활동
 
-### [Dig-Duck](https://github.com/jae-tech/digduck)
-스마트스토어 상품 가격 크롤링 및 마진 계산 SaaS  
-CloudFront 배포, 블루/그린 배포, DNS 설정 등 실무 수준 인프라 경험 축적
+지속적인 개인 프로젝트 개발로 꾸준히 활동 중입니다.
 
-### [Blog Auto Posting](https://github.com/jae-tech/tstory-auto-postiong)
-알뜰폰 요금제 데이터 수집 → Gemini AI 콘텐츠 생성 → 자동 블로그 발행 시스템  
-Playwright와 NestJS 기반 전체 파이프라인 자동화
+![GitHub Contribution Graph](https://ghchart.rknight.me/jae-tech)
 
-### [Beauty Manager](https://github.com/jae-tech/nexus)
-소규모 미용실/네일샵용 재고·예약 관리 SaaS  
-Tailwind UI 및 Electron 데스크톱 버전 개발 중
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jae-tech&show_icons=true&theme=transparent&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jae-tech&layout=compact&theme=transparent&hide_border=true)
+
+최근 1년간 총 **863 contributions**  
+더 자세한 활동은 [github.com/jae-tech](https://github.com/jae-tech)에서 확인하세요.
 
 📫 **Email:** cinnamatcha@gmail.com
 
