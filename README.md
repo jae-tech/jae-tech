@@ -25,8 +25,6 @@ TypeScript, Playwright, Gemini AI, Electron
 
 지속적인 개인 프로젝트 개발로 꾸준히 활동 중입니다.
 
-![GitHub Contribution Graph](https://ghchart.rknight.me/jae-tech)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jae-tech&show_icons=true&theme=transparent&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jae-tech&layout=compact&theme=transparent&hide_border=true)
